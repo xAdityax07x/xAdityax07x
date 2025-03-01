@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @xAdityax07x
-- 👀 I’m interested in AI AND DATA SCIENCE ...
-- 🌱 I’m currently learning PYTHON...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me INSTA:- _htpps.aditya ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hey there! I'm Aditya.
+🚀 B.Tech Student | Tech Enthusiast | Problem Solver
+🎓 Pursuing B.Tech at JG University (Class of 2028)
+⚙️ Passionate about C++, DSA, and Object-Oriented Programming
+🔍 Interested in System Design, Competitive Programming & AI
+🏀 Former Basketball Team Captain | 🏃 Marathon Runner | 🎖️ NCC Cadet
 
-<!---
-xAdityax07x/xAdityax07x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Always learning, building, and exploring new tech!
+📌 Let's connect and collaborate!
+
